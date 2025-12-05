@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-## Register No : 212224240117
-## Name : Prathik TS
+## Register No : 212224240110
+## Name : V Patrick Alex Emmanuel
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
